@@ -3,7 +3,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-  - In Progress: Cosmo Chat (Discord Chat Bot Utilizing OpenAI API)
+  - In Progress: CosmoChat (Discord Chat Bot Utilizing OpenAI API)
+  - In progress: Auggie (Discord Bot Assistant for AR/VR Club @ CSUDH)
 
 Things about me: 
 - 🔭 I’m currently working on Discord bots using Python
